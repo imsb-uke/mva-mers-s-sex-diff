@@ -1,0 +1,19 @@
+# Python environment for original_analysis/ and revision_analysis/.
+# Create with: mamba env create -f python_environment.yml
+# gseapy queries the Enrichr web service (original_analysis/ steps 06 and 07) and needs internet access.
+name: mva_mers_sex_py
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11.6
+  - pip
+  - pip:
+      - numpy==1.26.4
+      - pandas==2.3.3
+      - scipy==1.17.1
+      - matplotlib==3.11.0
+      - seaborn==0.13.0
+      - anndata==0.12.18
+      - scanpy==1.10.1
+      - openpyxl==3.1.2
+      - gseapy==1.1.3

@@ -1,0 +1,11 @@
+"arm","sex","mITT","age_median","age_range","binding_day252","neutralising_day252","binding_day84","neutralising_day84","binding_samples","neutralising_samples"
+"HD SI","Female",18,35.5,"20 to 54",18,17,18,18,178,177
+"HD SI","Male",10,31,"22 to 48",10,10,9,9,96,96
+"HD LI","Female",10,27.5,"20 to 55",10,10,9,9,96,96
+"HD LI","Male",16,27.5,"20 to 53",16,16,16,16,159,159
+"LD SI","Female",16,27.5,"18 to 55",16,16,16,16,157,157
+"LD SI","Male",13,26,"18 to 54",13,13,12,12,127,126
+"LD LI","Female",15,37,"19 to 53",15,15,15,15,149,150
+"LD LI","Male",13,27,"18 to 55",13,13,13,13,130,130
+"Placebo","Female",5,37,"32 to 52",5,5,5,5,49,49
+"Placebo","Male",9,24,"19 to 54",9,9,9,9,87,87

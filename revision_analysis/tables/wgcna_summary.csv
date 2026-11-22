@@ -1,0 +1,19 @@
+arm,measure,value
+SI,Module-trait cells tested (matrix shown in the paper),228
+SI,Cells with nominal p < 0.05,16
+SI,Cells with FDR < 0.05,0
+SI,Nominal cells with p < 0.05 in all leave-one-participant-out networks,9
+SI,Modules (mixed model),19
+SI,"Modules with D1 vs D0 change, FDR < 0.05",7
+SI,"Modules with sex difference in D1 vs D0 change, FDR < 0.05",0
+SI,M19: genes,1331
+SI,M19: median Jaccard index when one participant is left out,0.67
+LI,Module-trait cells tested (matrix shown in the paper),276
+LI,Cells with nominal p < 0.05,22
+LI,Cells with FDR < 0.05,2
+LI,Nominal cells with p < 0.05 in all leave-one-participant-out networks,9
+LI,Modules (mixed model),23
+LI,"Modules with D1 vs D0 change, FDR < 0.05",9
+LI,"Modules with sex difference in D1 vs D0 change, FDR < 0.05",2
+LI,M23: genes,1215
+LI,M23: median Jaccard index when one participant is left out,0.69

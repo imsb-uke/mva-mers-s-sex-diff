@@ -1,0 +1,5 @@
+arm,sex,mITT_high_dose,RNAseq_participants,excluded_incomplete_series,analysed_participants,analysed_samples,age_median,age_range
+SI,Female,18,9,1,8,48,38.5,24 to 53
+SI,Male,10,4,0,4,24,28.0,22 to 43
+LI,Female,10,5,2,3,18,25.0,20 to 30
+LI,Male,16,8,0,8,48,34.5,21 to 53

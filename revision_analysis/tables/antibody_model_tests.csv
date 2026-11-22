@@ -1,0 +1,49 @@
+"assay","analysis","test","pvalue"
+"Binding (ELISA S1)","day 0","sex x arm interaction (F test, + age)",0.398047206291226
+"Binding (ELISA S1)","day 0","Wilcoxon rank-sum, unadjusted",0.200592128932576
+"Binding (ELISA S1)","day 14","sex x arm interaction (F test, + age)",0.403954106271685
+"Binding (ELISA S1)","day 14","Wilcoxon rank-sum, unadjusted",0.0510673650694156
+"Binding (ELISA S1)","day 28","sex x arm interaction (F test, + age)",0.478388107438595
+"Binding (ELISA S1)","day 28","Wilcoxon rank-sum, unadjusted",0.0650030618002578
+"Binding (ELISA S1)","day 42","sex x arm interaction (F test, + age)",0.949009326735228
+"Binding (ELISA S1)","day 42","Wilcoxon rank-sum, unadjusted",0.978151759078372
+"Binding (ELISA S1)","day 56","sex x arm interaction (F test, + age)",0.444256329091656
+"Binding (ELISA S1)","day 56","Wilcoxon rank-sum, unadjusted",0.680283018072909
+"Binding (ELISA S1)","day 70","sex x arm interaction (F test, + age)",0.260631059536101
+"Binding (ELISA S1)","day 70","Wilcoxon rank-sum, unadjusted",0.992623094082829
+"Binding (ELISA S1)","day 84","sex x arm interaction (F test, + age)",0.588287647769416
+"Binding (ELISA S1)","day 84","Wilcoxon rank-sum, unadjusted",0.836388924212934
+"Binding (ELISA S1)","day 168","sex x arm interaction (F test, + age)",0.47577402387771
+"Binding (ELISA S1)","day 168","Wilcoxon rank-sum, unadjusted",0.503341177273767
+"Binding (ELISA S1)","day 224","sex x arm interaction (F test, + age)",0.731342891997266
+"Binding (ELISA S1)","day 224","Wilcoxon rank-sum, unadjusted",0.913858690712657
+"Binding (ELISA S1)","day 252 (V3D28)","sex x arm interaction (F test, + age)",0.919797654360983
+"Binding (ELISA S1)","day 252 (V3D28)","Wilcoxon rank-sum, unadjusted",0.04059187541349
+"Neutralising (PRNT50)","day 0","sex x arm interaction (F test, + age)",0.540116407186023
+"Neutralising (PRNT50)","day 0","Wilcoxon rank-sum, unadjusted",0.63597121754892
+"Neutralising (PRNT50)","day 14","sex x arm interaction (F test, + age)",0.577977697709102
+"Neutralising (PRNT50)","day 14","Wilcoxon rank-sum, unadjusted",0.476660128392032
+"Neutralising (PRNT50)","day 28","sex x arm interaction (F test, + age)",0.22384614376094
+"Neutralising (PRNT50)","day 28","Wilcoxon rank-sum, unadjusted",0.559202908583264
+"Neutralising (PRNT50)","day 42","sex x arm interaction (F test, + age)",0.999046358017045
+"Neutralising (PRNT50)","day 42","Wilcoxon rank-sum, unadjusted",0.286128462725018
+"Neutralising (PRNT50)","day 56","sex x arm interaction (F test, + age)",0.782146667729245
+"Neutralising (PRNT50)","day 56","Wilcoxon rank-sum, unadjusted",0.148870966839713
+"Neutralising (PRNT50)","day 70","sex x arm interaction (F test, + age)",0.963898782024374
+"Neutralising (PRNT50)","day 70","Wilcoxon rank-sum, unadjusted",0.174049743036112
+"Neutralising (PRNT50)","day 84","sex x arm interaction (F test, + age)",0.836599606100039
+"Neutralising (PRNT50)","day 84","Wilcoxon rank-sum, unadjusted",0.539563610195003
+"Neutralising (PRNT50)","day 168","sex x arm interaction (F test, + age)",0.572216400343891
+"Neutralising (PRNT50)","day 168","Wilcoxon rank-sum, unadjusted",0.823405890774815
+"Neutralising (PRNT50)","day 224","sex x arm interaction (F test, + age)",0.970127754087668
+"Neutralising (PRNT50)","day 224","Wilcoxon rank-sum, unadjusted",0.574585160377196
+"Neutralising (PRNT50)","day 252 (V3D28)","sex x arm interaction (F test, + age)",0.967812198141854
+"Neutralising (PRNT50)","day 252 (V3D28)","Wilcoxon rank-sum, unadjusted",0.141578353614662
+"Binding (ELISA S1)","longitudinal","sex x time (F test, Satterthwaite)",0.00675241614237082
+"Binding (ELISA S1)","longitudinal","sex, main effect (F test, Satterthwaite)",0.850040027832847
+"Binding (ELISA S1)","longitudinal","sex x time (likelihood ratio)",0.00467649019260217
+"Binding (ELISA S1)","longitudinal","sex x arm and sex x arm x time (likelihood ratio)",0.833693162576671
+"Neutralising (PRNT50)","longitudinal","sex x time (F test, Satterthwaite)",0.154737087343756
+"Neutralising (PRNT50)","longitudinal","sex, main effect (F test, Satterthwaite)",0.89728636226385
+"Neutralising (PRNT50)","longitudinal","sex x time (likelihood ratio)",0.130874362653287
+"Neutralising (PRNT50)","longitudinal","sex x arm and sex x arm x time (likelihood ratio)",0.999985500339554

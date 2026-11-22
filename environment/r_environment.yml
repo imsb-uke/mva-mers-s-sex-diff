@@ -1,0 +1,27 @@
+# R environment for original_analysis/ and revision_analysis/.
+# Create with: mamba env create -f r_environment.yml
+name: mva_mers_sex_r
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - r-base=4.3.3
+  - bioconductor-deseq2=1.42.0
+  - bioconductor-limma=3.58.1
+  - bioconductor-edger=4.0.16
+  - bioconductor-variancepartition=1.32.2
+  - bioconductor-biocparallel=1.36.0
+  - bioconductor-clusterprofiler=4.10.0
+  - bioconductor-org.hs.eg.db=3.18.0
+  - r-wgcna=1.73
+  - r-lme4=1.1_37
+  - r-lmertest=3.1_3
+  - r-emmeans=1.11.2_8
+  - r-survival=3.8_3
+  - r-readxl=1.4.5
+  - r-data.table=1.17.8
+  - r-r.utils=2.13.0
+  - r-tibble=3.3.0
+  - r-dplyr=1.1.4
+  - r-jsonlite=2.0.0
+  - r-ggplot2=3.5.2

@@ -1,0 +1,19 @@
+"arm","vaccination","sex","n","sample","n_DEG_median","n_DEG_min","n_DEG_max"
+"LI","T1","Male",3,"equal n",0,0,6905
+"LI","T2","Male",3,"equal n",1,0,4277
+"LI","T3","Male",3,"equal n",11.5,0,4164
+"SI","T1","Female",4,"equal n",276,0,3030
+"SI","T2","Female",4,"equal n",0,0,3321
+"SI","T3","Female",4,"equal n",2940.5,0,5624
+"LI","T1","Female",3,"full",1071,1071,1071
+"LI","T2","Female",3,"full",948,948,948
+"LI","T3","Female",3,"full",0,0,0
+"SI","T1","Male",4,"full",3913,3913,3913
+"SI","T2","Male",4,"full",0,0,0
+"SI","T3","Male",4,"full",0,0,0
+"SI","T1","Female",8,"full",3680,3680,3680
+"SI","T2","Female",8,"full",409,409,409
+"SI","T3","Female",8,"full",7108,7108,7108
+"LI","T1","Male",8,"full",4546,4546,4546
+"LI","T2","Male",8,"full",1602,1602,1602
+"LI","T3","Male",8,"full",5108,5108,5108
